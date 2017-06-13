@@ -1,0 +1,91 @@
+#tyson{
+    width: 100%;
+}
+
+h1 {
+    margin: 0 auto;
+    text-align:center;
+
+}
+
+img {
+    height:300px;
+    margin-left: 35%;
+ }
+
+ #parag1 {
+    text-align: center;
+    font-size: 10;
+    font-style: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+ }
+
+ table {
+      border-style: solid;
+      background-color: red;
+      width: 40%;
+      margin: 0 auto;
+
+ }
+
+ th {
+     border-style: solid;
+ }
+
+ td {
+     border-style: solid;
+     background-color: orange;
+ }
+
+ #EmailAddy {
+    width: 400px;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: dodgerblue;
+    margin: 30px auto;
+ }
+
+ #dodger {
+    text-align: center;
+
+ }
+
+ input {
+     margin-left: 70px;
+     margin-bottom: 10px;
+ }
+
+ #containerdiv{
+     display:flex;
+     width: 80%;
+     flex-wrap: wrap;
+
+     background-color: green;
+ }
+
+ .childdiv{
+background-color: yellow;
+height: 200px;
+width: 200px;
+border-style: solid;
+margin: 10px;
+
+ }
+ #ybox {
+     font-style: italic;
+     text-align: center;
+     line-height: 80px;
+ }
+
+ #input2{
+    width: 100px;
+    margin-right: 40px;
+    
+
+ }
+
+ button{
+     width: 50px;
+     margin-left: 80px;
+ }
